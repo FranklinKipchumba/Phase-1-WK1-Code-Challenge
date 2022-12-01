@@ -1,0 +1,19 @@
+{
+  "name": "phase-1-wk1-code-challenge",
+  "version": "1.0.0",
+  "description": "Calculating the Speed Covered, Student Grades and Net-salary of an individual",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test, npm start, node index.js, learn-lab test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranklinKipchumba/Phase-1-WK1-Code-Challenge.git"
+  },
+  "author": "Franklin Kipchumba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranklinKipchumba/Phase-1-WK1-Code-Challenge/issues"
+  },
+  "homepage": "https://github.com/FranklinKipchumba/Phase-1-WK1-Code-Challenge#readme"
+}

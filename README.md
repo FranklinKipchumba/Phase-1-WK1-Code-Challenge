@@ -1,16 +1,23 @@
 # Phase-1-WK1-Code-Challenge
 
 # Description
-the code challenge is about claculating the grades, speed and net salary.
+The code challenge is about claculating the grades, speed and net salary.
+We are using if...else statement because it a way we determine the particular calculations of the questions.
+I have faced a challenge in writing the codes since it is my fisrt time doing a code challenge.
 
 
 # Student-Grade.js
-To calculate the student grades 
+To calculate the student grades either pass or fail.
+If...else Statement
+
 # Speed-Detector.js
-To calculate or detect the speed covered by an individual driver
+To calculate or detect the speed covered by an individual driver we use:
+If...else Statement
+
 
 # Net-Salary.js
-To calculate the Net salary of an individual
+To calculate the Net salary of an individual by using:
+Net salary = Gross - Taxes
 
 # Getting Started 
 In order for you to use the content on this repo ensure you have the following:
@@ -47,6 +54,13 @@ Running the application is very straight forward. You can use the following step
 - Run the application
 
       npm start
+
+# Authors
+This project was contributed to by:
+- [Franklin Kipchumba](https://github.com/FranklinKipchumba)
+
+# License
+The project is licensed under Apache 2.0.
 
 
 
