@@ -1,67 +1,31 @@
-# Phase-1-WK1-Code-Challenge
 
-# Description
-The code challenge is about claculating the grades, speed and net salary.
-We are using if...else statement because it a way we determine the particular calculations of the questions.
-I have faced a challenge in writing the codes since it is my fisrt time doing a code challenge.
+# Project Title
+1.grade calculator
+2.speed detector
+3.salary calculator
 
-
-# Student-Grade.js
-To calculate the student grades either pass or fail.
-If...else Statement
-
-# Speed-Detector.js
-To calculate or detect the speed covered by an individual driver we use:
-If...else Statement
-
-
-# Net-Salary.js
-To calculate the Net salary of an individual by using:
-Net salary = Gross - Taxes
-
-# Getting Started 
-In order for you to use the content on this repo ensure you have the following:
-
-- A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
-- nodejs 9.0+
-- Some bit of patience for your own sanity.
+## Description
+The project entails three javascript files: 
+1.  The first challenge is a student grade generator program it has an input window for marks and  outputs grade using the javascript file index.js
+2.  
+3.  The second challenge is a speed detector program taking speed as input and outputs depending on the speed claculations done with speed.js
+4.  
+5)  The third challenge is a salary calculator program that takes gross salary as input and outputs the gross salary, NSSF, NHIF, PAYEE and net Salary calculated in the Salary.js
 
 ## Installation
+You can run the project by :
+1. cloning it using the command: git clone https://github.com/kevinkkimutai/code-challenge
+2. forking it into a folder
+3. you can also use github pages to open the website. url: https://kevinkkimutai.github.io/code-challenge
+4. once you have the project in the folder run the "index.html" in any browser of your choice.
 
-To use this repo on your machine requires some simple steps
+The html file is linked to all the javascript files in the folder also the css file.
 
-### Alternative One
-
-- Open a terminal / command line interface on your computer
-- Clone the repo by using the following:
-
-    git clone git@github.com:FranklinKipchumba/Phase-1-WK1-Code-Challenge.git
-- Be patient as it creates a copy on your local machine for you.
-- Change directory to the repo folder:
-
-        cd WK1Code-Challenge
-- (Optional) Open it in ``Visual Studio Code``
-
-        code .
-
-# Running the application
-
-Running the application is very straight forward. You can use the following steps to run the app.
-
-- Install required dependencies from npm
-
-      npm install
-- Run the application
-
-      npm start
-
-# Authors
-This project was contributed to by:
-- [Franklin Kipchumba](https://github.com/FranklinKipchumba)
-
-# License
-The project is licensed under Apache 2.0.
+## Authors
+	Kelvin Kimutai
+- [@kevinkkimutai](https://www.github.com/kevinkkimutai)
 
 
+## License
 
-
+[ISC](https://choosealicense.com/licenses/isc/)

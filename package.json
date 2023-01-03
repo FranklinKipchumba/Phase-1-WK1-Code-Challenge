@@ -1,19 +1,28 @@
 {
-  "name": "phase-1-wk1-code-challenge",
+  "name": "phase-1-code-challenge",
   "version": "1.0.0",
-  "description": "Calculating the Speed Covered, Student Grades and Net-salary of an individual",
-  "main": "index.js",
+  "description": "Tackling a code challenge using html,css and javascript.",
+  "main": "index.html",
   "scripts": {
-    "test": "npm test, npm start, node index.js, learn-lab test"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FranklinKipchumba/Phase-1-WK1-Code-Challenge.git"
+    "url": "git+https://github.com/kevinkkimutai/phase-1-code-challenge.git"
   },
-  "author": "Franklin Kipchumba",
+  "keywords": [
+    "function",
+    "if",
+    "statement",
+    "if-else",
+    "statement",
+    "rows & columns in html"
+  ],
+  "author": "Kelvin Kimutai",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FranklinKipchumba/Phase-1-WK1-Code-Challenge/issues"
+    "url": "https://github.com/kevinkkimutai/phase-1-code-challenge/issues"
   },
-  "homepage": "https://github.com/FranklinKipchumba/Phase-1-WK1-Code-Challenge#readme"
+  "homepage": "https://github.com/kevinkkimutai/phase-1-code-challenge#readme"
 }
